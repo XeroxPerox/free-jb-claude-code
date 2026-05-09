@@ -22,10 +22,10 @@ If Claude takes long to respond(or the progress text switches colors from orange
 If you get an API error, you should edit server.py with notepad or notepad ++ and add in your GROQ API Key. If you already added it, make sure it is correct, and not expired.
 
 Credits:
-@bigbooferboi - On Discord
-@ScriptZ - On Discord
-@trelagrado - On Discord
-Alishahryar1 - On GitHub
+@bigbooferboi - On Discord.
+@ScriptZ - On Discord.
+@trelagrado - On Discord.
+Alishahryar1 - On GitHub.
 ME:
-@shed_jr - On Discord
-xpguy(XeroxPerox) - On GitHub
+@shed_jr - On Discord.
+xpguy(XeroxPerox) - On GitHub.
