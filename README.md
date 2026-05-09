@@ -1,8 +1,8 @@
 Hello! To use this Claude Code Free Jailbroken tool, please follow these steps:
 - Complete the installation of free-claude-code in GitHub(https://github.com/Alishahryar1/free-claude-code)
 - Then install dependencies if you don't have them:
-‘‘‘pip install uv‘‘‘
-‘‘‘pip install uvicorn‘‘‘
+‘pip install uv‘
+‘pip install uvicorn‘
 - Sign in Groq and create an API Key
 - Edit server.py with notepad or notepad ++
 - Look for GROQ_API_KEY="YOUR_GROQ_API_KEY_HERE" line and change YOUR_GROQ_API_KEY_HERE to your Groq API key.
